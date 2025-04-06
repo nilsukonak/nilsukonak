@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Nilsu</h1>
+<h3 align="center">I am a third-year Software Engineering student focused on mobile app development and website creation.</h3>
+
+- 🔭 I’m currently working on **planner app**
+
+- 📝You can find my articles on Medium: [https://medium.com/@nilsukonak](https://medium.com/@nilsukonak)
+
+- 📫 How to reach me **n.konak19@gmai.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nilsu-konak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilsu-konak" height="30" width="40" /></a>
+<a href="https://medium.com/@nilsukonak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nilsukonak" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">🚀 İyi Bildiklerim:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -96,3 +111,8 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilsukonak&show_icons=true&locale=en&layout=compact" alt="nilsukonak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilsukonak&show_icons=true&locale=en" alt="nilsukonak" /></p>
