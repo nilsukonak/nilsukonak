@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nilsu</h1>
+<h1 align="center">Hi , I'm Nilsu</h1>
 <h3 align="center">I am a third-year Software Engineering student focused on mobile app development and website creation.</h3>
 
 - 🔭 I’m currently working on **planner app**
@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nilsu-konak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilsu-konak" height="30" width="40" /></a>
-<a href="https://medium.com/@nilsukonak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nilsukonak" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">🚀 Languages:</h3>
