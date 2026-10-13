@@ -20,7 +20,7 @@ to software design patterns and user experience.
 
 ---
 
-### 🌷 A Little About Me
+###  A Little About Me
 
 - 🎓 Software Engineering graduate
 - 📱 Developing mobile applications with **Flutter & Dart**
