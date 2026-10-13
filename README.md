@@ -3,7 +3,7 @@
 
 # Hi, I'm Nilsu! 👋
 
-### Flutter Developer · Software Engineering Graduate 🎓
+### Flutter Developer · Software Engineer 
 
 *Mobile Development · UI/UX · Software Architecture*
 
@@ -38,8 +38,9 @@ to software design patterns and user experience.
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
+**Flutter Ecosystem:** State Management (Provider, BLoC/Cubit, Riverpod) · App Architecture · API Integration · Firebase
 
-`Provider` · `AutoRoute` · `Repository Pattern` · `Firestore`
+
 
 #### 🌐 Web Development
 
@@ -53,11 +54,12 @@ to software design patterns and user experience.
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
 </p>
 
-#### 🗄️ Databases
-
+### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase" />
 </p>
+
+**Also worked with:** SQL Server · MariaDB · Cloud Firestore · Hive
 
 #### 🎨 Tools & Design
 
@@ -127,28 +129,3 @@ and Firebase integration.
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nilsukonak&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsukonak&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nilsukonak&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 My Approach
-
-*Good software should feel simple, even when building it isn't.*
-
-**Thanks for visiting! 💜**
-
-</div>
